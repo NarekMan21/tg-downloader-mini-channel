@@ -4,22 +4,22 @@
 
 ## 📥 Download
 
-- Перейдите в [Releases](https://github.com/NarekMan21/tg-downloader-mini-channel/releases) и скачайте `app.exe`.
+- Go to [Releases](https://github.com/NarekMan21/tg-downloader-mini-channel/releases) and download `app.exe`.
 
 ## 🚀 Quick Start
 
-1. Запустите `app.exe`.
-2. Введите номер телефона → код → канал → «Старт».
-3. Откройте `index.html` в папке `downloads`.
+1. Run `app.exe`.
+2. Enter your phone number → code → channel → “Start”.
+3. Open `index.html` in the `downloads` folder.
 
 ## ⚙️ Features
 
-- Поддержка фото, видео, аудио, документов :contentReference[oaicite:3]{index=3}  
-- Пузырьковая верстка в статическом HTML  
-- Обработка FloodWait и 2FA  
+- Supports photos, videos, audio, documents  
+- Bubble-style layout in static HTML  
+- Handles FloodWait and 2FA  
 
 ## 📖 Usage
 
 ```bash
-# скачать и сразу запустить
+# download and run
 ./app.exe
