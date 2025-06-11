@@ -4,7 +4,7 @@
 
 ## 📥 Download
 
-- Перейдите в [Releases](https://github.com/username/tg-downloader-mini-channel/releases) и скачайте `app.exe`.
+- Перейдите в [Releases](https://github.com/NarekMan21/tg-downloader-mini-channel/releases) и скачайте `app.exe`.
 
 ## 🚀 Quick Start
 
