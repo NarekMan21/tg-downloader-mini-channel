@@ -26,3 +26,12 @@ The result is a portable static archive that can be viewed locally without runni
 
 ## Status
 Usable utility project. Next nice upgrades would be screenshots, a sample export, and clearer release notes.
+
+
+## Releases
+Use GitHub Releases for downloadable Windows builds and short changelogs.
+
+## Suggested next upgrades
+- add screenshots of the app
+- add a sample exported archive
+- publish clearer release notes for each build
