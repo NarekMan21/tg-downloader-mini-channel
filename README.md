@@ -35,3 +35,12 @@ Use GitHub Releases for downloadable Windows builds and short changelogs.
 - add screenshots of the app
 - add a sample exported archive
 - publish clearer release notes for each build
+
+## Screenshots
+Add 1-3 screenshots in `docs/images/` and embed them like this:
+
+```md
+![Overview](docs/images/overview.png)
+![Dashboard](docs/images/dashboard.png)
+```
+
