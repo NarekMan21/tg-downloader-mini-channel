@@ -1,25 +1,28 @@
 # tg-downloader-mini-channel
 
-**One-click Windows EXE** for downloading a Telegram channel’s history into a static **HTML** archive.
+One-click Windows tool for exporting a Telegram channel into a static HTML archive.
 
-## 📥 Download
+## What it does
+- Downloads channel history into local files
+- Builds a static HTML archive you can open in any browser
+- Preserves media like photos, videos, audio, and documents
+- Handles common Telegram edge cases such as FloodWait and 2FA
 
-- Go to [Releases](https://github.com/NarekMan21/tg-downloader-mini-channel/releases) and download `app.exe`.
+## Quick start
+1. Download `app.exe` from [Releases](https://github.com/NarekMan21/tg-downloader-mini-channel/releases)
+2. Run the app
+3. Sign in with your Telegram number
+4. Choose a channel
+5. Start export
+6. Open `index.html` in the output folder
 
-## 🚀 Quick Start
+## Output
+The result is a portable static archive that can be viewed locally without running a server.
 
-1. Run `app.exe`.
-2. Enter your phone number → code → channel → “Start”.
-3. Open `index.html` in the `downloads` folder.
+## Good fit for
+- personal backups
+- local browsing of channel history
+- lightweight archival exports
 
-## ⚙️ Features
-
-- Supports photos, videos, audio, documents  
-- Bubble-style layout in static HTML  
-- Handles FloodWait and 2FA  
-
-## 📖 Usage
-
-```bash
-# download and run
-./app.exe
+## Status
+Usable utility project. Next nice upgrades would be screenshots, a sample export, and clearer release notes.
